@@ -1,7 +1,16 @@
 <!--
 **LucianoBritis/lucianobritis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Olá, eu sou o Luciano Britis 👋
+### Olá 👋, eu sou o Luciano Britis 
+
+O que estudo ?
+
+ - USP/ESALQ: _MBA em **Data Science e Analytics**_.
+   
+ - Databricks Academy:  Certificação em **_Machine Learning Associate_**.
+  
+ - WorldQuant University Programs: **_Applied Data Science Lab_**.
+
 
 
 
