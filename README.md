@@ -8,7 +8,7 @@
 ### Áreas de Estudo e Prática
 
 #### Engenharia de Dados (Ingestão & Armazenamento)
-- **Pipelines:** Desenvolvimento de pipelines de ETL/ELT locais focados em integridade transacional e eficiência.
+- **Pipelines:** Desenvolvimento de pipelines de ETL/ELT locais focados em integridade transacional e eficiência sob a arquitetura Medallion (camadas 🟤 Bronze, ⚪ Silver e 🟡 Gold).
 - **Orquestração:** Gerenciamento, monitoramento e fluxo de tarefas utilizando Prefect Cloud.
 - **Lakehouse / Motores:** Armazenamento colunar moderno e análise analítica veloz utilizando Polars, DuckDB, Parquet e Delta Lake.
 - **Modelagem:** Estruturação de camadas analíticas e Data Marts organizados via DBT (Data Build Tool) local.
