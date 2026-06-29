@@ -48,10 +48,9 @@
 
 ### Estatísticas e Métricas de Código
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucianoBritis&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub de Luciano" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoBritis&layout=compact&theme=tokyonight&langs_count=6" alt="Linguagens Mais Usadas" height="190" />
-</p>
+| Estatísticas Gerais | Linguagens Mais Usadas |
+| :---: | :---: |
+| [![Estatísticas do GitHub de Luciano](https://github-readme-stats.vercel.app/api?username=LucianoBritis&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoBritis&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) |
 
 ---
 *“Focado em aprender e aplicar arquitetura eficiente de dados, validação matemática e engenharia de software robusta.”*
